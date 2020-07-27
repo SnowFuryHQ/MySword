@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mysword",
+  "name": "a simple sword",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LJR"],
+  "credits": "真的就是一个简单的剑？",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
